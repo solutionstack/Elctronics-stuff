@@ -15,6 +15,8 @@ In the 555 Oscillator circuit above, pin 2 and pin 6 are connected together allo
 
 The capacitor charges up to 2/3Vcc (the upper comparator limit) through both resistors R1 and R2 which is determined by the **0.693(R1+R2)C** combination. It then discharges itself down to 1/3Vcc (the lower comparator limit) through resistor R2 only which is determined by the **0.693(R2*C)** combination.
 
+
+## Example
 #### In our exammple we're going to use a variable (4K) resistor for R2 a 1k resistor for R1 and a 4.7nf (nano farads) capacitor as the Charging capacitor C<sub >1</sub>. C<sub >2</sub> and C<sub >3</sub> are filter capacitors
 
 #### Giving us the following characteristics
