@@ -25,12 +25,12 @@ The capacitor charges up to 2/3Vcc (the upper comparator limit) through both res
 #### Time of T<sub>off</sub><br/> = 0.693 * (4,000) * (4.7 * 10<sup>-9</sup>) = 13ms
 #### Period P <br/>
 #### Frequency _f_<br/>
-At minimum the variable resistor R2 is approximately 1ohm, so,
+At minimum position the variable resistor R2 is approximately 1ohm, so,
 frequency  = 1/T or 1.44/(R1 + 2R2) * C <br/>
 = 1.44/ (1,000 + (2*(1))) * (4.7 * 10<sup>-9</sup>)
 = 305.7714Khz
 
-At maximum the variable resistor R2 is approximately 4Kohm, so,
+At maximum position the variable resistor R2 is approximately 4Kohm, so,
 /T or 1.44/(R1 + 2R2) * C <br/>
 = 1.44/ (1,000 + (2*(4000))) * (4.7 * 10<sup>-9</sup>)
 = 34.0426 Khz
