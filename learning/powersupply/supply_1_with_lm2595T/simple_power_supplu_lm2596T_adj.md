@@ -11,7 +11,7 @@ See datasheet: https://www.ti.com/lit/ds/symlink/lm2596.pdf?ts=1724714915348&ref
 
 
 ## Circuit 
-![](./psupply.png?raw=true "Dual 5V 9V Lm2596T power supply")
+![](./puspply.png?raw=true "Dual 5V 9V Lm2596T power supply")
 
 ### Transformer
 ne5551.gif
