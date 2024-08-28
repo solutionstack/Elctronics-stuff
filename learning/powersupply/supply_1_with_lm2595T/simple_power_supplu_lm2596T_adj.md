@@ -1,6 +1,6 @@
 ## LM2596T-ADJ based power supply
 
-This is a simple circuit to provide dual DV output (5V and 12V), using the  LM2596-ADJ switching voltage regulator. series of regulators are monolithic
+This is a simple circuit to provide dual DV output (5V and 12V), using the  LM2596-ADJ switching voltage regulator. 
 
 The LM2956 integrated circuits  provide all the active functions
 for a step-down (buck) switching regulator, capable
